@@ -6,4 +6,6 @@ O projeto esta em fase de testes ainda porém ja esta funcional tem uma interfac
 
 # INTERFACE 
 
+Planejo adicionar a função de modo escuro futuramente para que fique melhor a visualização para quem estuda de noite.
+
 ![image](https://github.com/user-attachments/assets/8a485268-3d9b-4028-bdc1-43417fa30199)
